@@ -1,7 +1,5 @@
 # linux-mxc6202x
-MXC6202x mainline accelerometer iio driver
-
-Accelerometer used in a certain q8 allwinner tablet.
+MXC6202x mainline accelerometer iio driver, a 3-axis accelerometer used in a certain q8 allwinner tablet.
 
 Add the following to your dts file to make Linux pick up the driver.
 
