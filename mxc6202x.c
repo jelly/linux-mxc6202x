@@ -1,5 +1,5 @@
 /*
- *  * 3-axis accelerometer driver for MXC6202X Memsic sensor
+ *  3-axis accelerometer driver for MXC6202X Memsic sensor
  *
  * Copyright (c) 2016, Jelle van der Waa <jelle@vdwaa.nl>
  *
