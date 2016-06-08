@@ -1,7 +1,8 @@
 /*
  *  * 3-axis accelerometer driver for MXC6202X Memsic sensor
  *
- *  Copyright (c) 2016, Jelle van der Waa <jelle@vdwaa.nl>
+ * Copyright (c) 2016, Jelle van der Waa <jelle@vdwaa.nl>
+ *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms and conditions of the GNU General Public License,
  * version 2, as published by the Free Software Foundation.
